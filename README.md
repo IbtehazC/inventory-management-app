@@ -1,4 +1,4 @@
-# Inventry Management App
+# Inventory Management App
 
 ### Tech stack
 - ReactJs as front-end
