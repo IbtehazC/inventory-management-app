@@ -6,8 +6,7 @@
 - SQL Server Database to persist data locally
 
 ### TODO -
-- Host Backend
-- And deploy App
+- Deploy App to a cloud server
 
 ### How to run app
 - clone/fork repository in your local computer
