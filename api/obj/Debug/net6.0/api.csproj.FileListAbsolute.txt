@@ -60,5 +60,3 @@ D:\Repositories\inventory-management-app\api\obj\Debug\net6.0\api.genruntimeconf
 D:\Repositories\inventory-management-app\api\obj\Debug\net6.0\ref\api.dll
 D:\Repositories\inventory-management-app\api\bin\Debug\net6.0\Humanizer.dll
 D:\Repositories\inventory-management-app\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Repositories\inventory-management-app\api\bin\Debug\net6.0\Npgsql.dll
-D:\Repositories\inventory-management-app\api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

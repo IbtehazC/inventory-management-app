@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S78R2dX9dBRffIHBOIvB/WJ71FQmXEg4XG7RM1SjGQ1PW3iLoLkg+29AyaFdkT1JSGum2TlJfhJRz3LyC+b9Hw==",
+  "dgSpecHash": "kul1JdE9YAx2E9puihExPQl61Fuaf0ebP0i0uX0FrpwSnQi5Drg3c4btxqOo2C5V/7H2RF7Z5PSHILClMgVcOA==",
   "success": true,
   "projectFilePath": "D:\\Repositories\\inventory-management-app\\api\\api.csproj",
   "expectedPackageFiles": [
@@ -35,8 +35,6 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.5\\npgsql.entityframeworkcore.postgresql.6.0.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

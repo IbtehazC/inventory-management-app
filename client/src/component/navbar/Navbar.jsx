@@ -10,7 +10,7 @@ const Navbar = () => {
             <div>
               <NavLink to="/" className="flex items-center py-4 px-2">
                 <span className="font-semibold text-gray-500 text-lg">
-                  Navigation
+                  Item Inventory
                 </span>
               </NavLink>
             </div>
@@ -23,9 +23,9 @@ const Navbar = () => {
                   }`
                 }
               >
-                Home
+                Items
               </NavLink>
-              <NavLink
+              {/* <NavLink
                 to="/item"
                 className={({ isActive }) =>
                   `py-4 px-2  border-b-4  font-semibold transition duration-300 hover:text-green-500 ${
@@ -34,7 +34,7 @@ const Navbar = () => {
                 }
               >
                 Items
-              </NavLink>
+              </NavLink> */}
             </div>
           </div>
           <div className="md:hidden flex items-center">
